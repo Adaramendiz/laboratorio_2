@@ -32,4 +32,5 @@ while (true) {
 
   let resultado = realizarOperacion(num1, num2, operacion);
   console.log(`Resultado: ${resultado}`);
+  
 }
